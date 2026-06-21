@@ -15,7 +15,7 @@ A ComfyUI custom node for managing prompt and character presets with a convenien
 1. Navigate to your ComfyUI `custom_nodes` folder
 2. Clone this repository:
 ```bash
-git clone https://github.com/vizart-vj/ComfyUI-PromptPresets.git
+git clone https://github.com/vizart-vj/ComfyUI-Prompt-Character-Presets.git
 ```
 3. Restart ComfyUI
 
